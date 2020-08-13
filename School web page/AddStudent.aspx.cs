@@ -15,7 +15,7 @@ namespace School_web_page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //Sample
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
